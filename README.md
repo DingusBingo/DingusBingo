@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DingusBingo
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning lua, python, gdscript
+- 🌱 I’m currently learning lua, python, gdscript, go, and how to use this site
 - 💞️ I’m looking to collaborate on anything that will make me a better programmer
 - 📫 hunterofhorses@gmail.com
 - ⚡ Fun fact: Im a cnc programmer at my dayjob, for now
